@@ -41,3 +41,7 @@ button {
 #animated {
     animation: nothing 5s infinite;
 }
+* {
+    margin: 0;
+    padding: 0;
+}
